@@ -1,0 +1,5 @@
+22.07.0
+openssl-dev
+pkgconfig(systemd)
+pkgconfig(zlib)
+yasm
