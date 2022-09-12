@@ -4,7 +4,7 @@
 #
 Name     : qatlib
 Version  : 22.07.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/intel/qatlib/archive/refs/tags/22.07.0.tar.gz
 Source0  : https://github.com/intel/qatlib/archive/refs/tags/22.07.0.tar.gz
 Summary  : No detailed summary available
