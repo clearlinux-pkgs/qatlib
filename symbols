@@ -182,6 +182,7 @@ libusdm.so.0:qaeMemFree
 libusdm.so.0:qaeMemFreeNUMA
 libusdm.so.0:qaeMemFreeNonZeroNUMA
 libusdm.so.0:qaeMemInit
+libusdm.so.0:qaePhysToVirtNUMA
 libusdm.so.0:qaeRegisterDevice
 libusdm.so.0:qaeUnregisterDevice
 libusdm.so.0:qaeVirtToPhysNUMA
