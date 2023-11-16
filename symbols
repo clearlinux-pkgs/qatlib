@@ -32,6 +32,16 @@ libqat.so.4:cpaCyEcdsaSignR
 libqat.so.4:cpaCyEcdsaSignRS
 libqat.so.4:cpaCyEcdsaSignS
 libqat.so.4:cpaCyEcdsaVerify
+libqat.so.4:cpaCyEcsm2Decrypt
+libqat.so.4:cpaCyEcsm2Encrypt
+libqat.so.4:cpaCyEcsm2GeneratorMultiply
+libqat.so.4:cpaCyEcsm2KeyExPhase1
+libqat.so.4:cpaCyEcsm2KeyExPhase2
+libqat.so.4:cpaCyEcsm2PointMultiply
+libqat.so.4:cpaCyEcsm2PointVerify
+libqat.so.4:cpaCyEcsm2QueryStats64
+libqat.so.4:cpaCyEcsm2Sign
+libqat.so.4:cpaCyEcsm2Verify
 libqat.so.4:cpaCyGetInstances
 libqat.so.4:cpaCyGetNumInstances
 libqat.so.4:cpaCyGetStatusText
