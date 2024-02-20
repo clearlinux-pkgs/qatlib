@@ -161,6 +161,8 @@ libqat.so.4:icp_sal_check_device
 libqat.so.4:icp_sal_find_new_devices
 libqat.so.4:icp_sal_getDevVersionInfo
 libqat.so.4:icp_sal_get_dc_error
+libqat.so.4:icp_sal_get_num_pfs
+libqat.so.4:icp_sal_get_pf_info
 libqat.so.4:icp_sal_iommu_get_remap_size
 libqat.so.4:icp_sal_iommu_map
 libqat.so.4:icp_sal_iommu_unmap
