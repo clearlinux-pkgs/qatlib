@@ -146,6 +146,7 @@ libqat.so.4:cpaGetDeviceInfo
 libqat.so.4:cpaGetInstances
 libqat.so.4:cpaGetNumDevices
 libqat.so.4:cpaGetNumInstances
+libqat.so.4:icp_sal_AsymGetInflightRequests
 libqat.so.4:icp_sal_CyGetFileDescriptor
 libqat.so.4:icp_sal_CyPollAsymRing
 libqat.so.4:icp_sal_CyPollDpInstance
@@ -156,8 +157,10 @@ libqat.so.4:icp_sal_DcGetFileDescriptor
 libqat.so.4:icp_sal_DcPollDpInstance
 libqat.so.4:icp_sal_DcPollInstance
 libqat.so.4:icp_sal_DcPutFileDescriptor
+libqat.so.4:icp_sal_SymGetInflightRequests
 libqat.so.4:icp_sal_check_all_devices
 libqat.so.4:icp_sal_check_device
+libqat.so.4:icp_sal_dp_SymGetInflightRequests
 libqat.so.4:icp_sal_find_new_devices
 libqat.so.4:icp_sal_getDevVersionInfo
 libqat.so.4:icp_sal_get_dc_error

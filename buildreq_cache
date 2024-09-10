@@ -1,5 +1,7 @@
-24.02.0
+24.09.0
+file
 nasm-bin
+numactl-dev
 openssl-dev
 pkgconfig(systemd)
 pkgconfig(zlib)
